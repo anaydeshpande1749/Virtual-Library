@@ -6,8 +6,8 @@ A cross-platform mobile + web-based Virtual Library system built using **React N
 
 ## 🚀 Live Demo
 
-🌐 [Discussion Forum (Web)](https://your-discussion-forum.firebaseapp.com)  
-📱 *Mobile app demo video or APK coming soon...*
+  
+📱 *Mobile app demo video .*
 
 ---
 
@@ -38,6 +38,9 @@ A cross-platform mobile + web-based Virtual Library system built using **React N
 
 > *(Add screenshots here — mobile app UI, PYQ page, chat forum, etc.)*
 
+![WhatsApp Image 2025-04-26 at 16 21 52_f2c4ad47](https://github.com/user-attachments/assets/559beedc-b9eb-4ba3-aa6d-9c4339c4e09c)
+
+
 ---
 
 ## 🧑‍💻 Developer Contributions
@@ -47,7 +50,7 @@ A cross-platform mobile + web-based Virtual Library system built using **React N
   - Built and hosted the discussion forum in ReactJS  
   - Integrated Firebase Authentication and Firestore  
 
-*(Collaborators can be listed here if it was a team project)*
+
 
 ---
 
