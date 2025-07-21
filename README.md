@@ -9,6 +9,10 @@ A cross-platform mobile + web-based Virtual Library system built using **React N
 https://github.com/user-attachments/assets/909604a4-4c7b-4123-bcfe-6b69a443eb1f
 
 
+
+https://github.com/user-attachments/assets/9e3ead13-3acd-48ce-9fee-7725055fee5f
+
+
   
 📱 *Mobile app demo video .*
 
@@ -40,6 +44,10 @@ https://github.com/user-attachments/assets/909604a4-4c7b-4123-bcfe-6b69a443eb1f
 ## 📷 Screenshots
 
 > *(Add screenshots here — mobile app UI, PYQ page, chat forum, etc.)*
+
+<img width="407" height="795" alt="image" src="https://github.com/user-attachments/assets/1d110abf-8c3d-47e9-be71-bf797023f409" />
+<img width="1941" height="922" alt="image" src="https://github.com/user-attachments/assets/72f7acd7-bcdb-4971-9a86-c7961ab4cf75" />
+
 
 ![WhatsApp Image 2025-04-26 at 16 21 52_f2c4ad47](https://github.com/user-attachments/assets/559beedc-b9eb-4ba3-aa6d-9c4339c4e09c)
 
