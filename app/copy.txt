@@ -1,0 +1,12 @@
+const books = [
+  { id: 1, title: "The Art of Programming", category: "Non-Fiction", image: "https://placekitten.com/200/300", description: "A deep dive into programming principles." },
+  { id: 2, title: "Data Structures & Algorithms", category: "Non-Fiction", image: "https://placekitten.com/201/301", description: "Master data structures and algorithms." },
+  { id: 3, title: "Mystery of the Code", category: "Fiction", image: "https://placekitten.com/202/302", description: "A thrilling programming-themed mystery novel." },
+  { id: 4, title: "Machine Learning Basics", category: "Non-Fiction", image: "https://placekitten.com/203/303", description: "Learn the basics of AI and ML." },
+  { id: 5, title: "Data Structures & Algorithms", category: "Non-Fiction", image: "https://placekitten.com/201/301", description: "Master data structures and algorithms." },
+  { id: 6, title: "Mystery of the Code", category: "Fiction", image: "https://placekitten.com/202/302", description: "A thrilling programming-themed mystery novel." },
+  { id: 7, title: "Data Structures & Algorithms", category: "Non-Fiction", image: "https://placekitten.com/201/301", description: "Master data structures and algorithms." },
+  { id: 8, title: "Mystery of the Code", category: "Fiction", image: "https://placekitten.com/202/302", description: "A thrilling programming-themed mystery novel." },
+  { id: 9, title: "Data Structures & Algorithms", category: "Non-Fiction", image: "https://placekitten.com/201/301", description: "Master data structures and algorithms." },
+  { id: 10, title: "Mystery of the Code", category: "Fiction", image: "https://placekitten.com/202/302", description: "A thrilling programming-themed mystery novel." },
+];
